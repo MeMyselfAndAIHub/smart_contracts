@@ -1,0 +1,4 @@
+name: MeMyselfAndAI
+plugins:
+  - name: vyper
+  - name: etherscan
