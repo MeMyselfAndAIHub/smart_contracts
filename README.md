@@ -34,6 +34,6 @@ Now here's a feature that isn't just limited to our primary audience of individu
 - Frontend Repository, containing the Langchain, LIT and Web3.storage code - https://github.com/MeMyselfAndAIHub/client
 - Smart Contract Repository - https://github.com/MeMyselfAndAIHub/smart_contracts
 - Contract Address Deployed on Mumbai - 0xc4787aA24E51a22f92910F97320aA98e167c7695
-- Link To Video Demo -
+- Link To Video Demo - https://youtu.be/6ISXtmkm_kA
 - Link To Live Site - https://client-delta-six.vercel.app/
 - Link To Documentation - https://francis-4.gitbook.io/me-myself-and-a.i/overview/our-features
