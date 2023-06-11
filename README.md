@@ -16,7 +16,7 @@ Upkeeps were designed with our main users in mind, providing them with a conveni
 
 ## Aides
 
-Aides is a special feature incorporated into the smart contract functionality of the app, although it wasn't implemented in the frontend due to time constraints. The idea behind aides is to provide close support to users experiencing memory loss, assisting them in managing their upkeeps and keeping their memories updated with important events as they happen. Aides offer additional help and much more to those who need it.
+Aides is a special feature incorporated into our application. The idea behind aides is to provide close support to users experiencing memory loss, assisting them in managing their upkeeps and keeping their memories updated with important events as they happen. Aides offer additional help and much more to users who suffer from dementia, giving them someone close to rely on to manage upkeeps and activities on the application.
 
 ## Iris
 
@@ -36,3 +36,4 @@ Now here's a feature that isn't just limited to our primary audience of individu
 - Contract Address Deployed on Mumbai - 0xc4787aA24E51a22f92910F97320aA98e167c7695
 - Link To Video Demo -
 - Link To Live Site - https://client-delta-six.vercel.app/
+- Link To Documentation - https://francis-4.gitbook.io/me-myself-and-a.i/overview/our-features
